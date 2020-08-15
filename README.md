@@ -1,7 +1,7 @@
 # 2048 for Android
 *2048 Clone for Android*
 
-<img align="right" src="https://creatoratnight.com/github/2048.png">
+<img align="right" src="https://creatoratnight.com/github/2048.jpg">
 This is a clone of <a href="https://github.com/gabrielecirulli/2048" target="_new">this 2048 game</a>
 
 I made this game to get more comfortable with python, give myself a little maths related challenge and learning how to use Kivy for Android apps.
