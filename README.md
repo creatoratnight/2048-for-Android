@@ -1,7 +1,7 @@
 # 2048 for Android
 *2048 for Android*
 
-<img align="right" src="https://creatoratnight.com/github/2048.jpg" width="50%" height="50%">
+<img align="right" src="https://firebasestorage.googleapis.com/v0/b/creatoratnight-babdb.appspot.com/o/images%2F2048screen.png?alt=media&token=80b81fa8-b569-4921-8302-b61362c0c7a1" width="50%" height="50%">
 This is a remake of <a href="https://github.com/gabrielecirulli/2048" target="_new">this 2048 game</a>.
 I coded the game from scratch to see if I could get it done within one day.
 
