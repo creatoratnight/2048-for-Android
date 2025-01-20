@@ -9,4 +9,4 @@ I made this game to get more comfortable with python, give myself a little maths
 
 The game is played by swiping up, down, left or right. Whenever two tiles with the same number are pushed against each other they will add up and form a new tile with double the value. The goal of the game is to get a 2048 tile.
 
-You can download the game from: <a href="http://www.creatoratnight.com/2048.apk">creatoratnight.com/app/2048.apk</a>
+You can download the game from: <a href="http://www.creatoratnight.com/2048.apk">creatoratnight.com/2048.apk</a>
